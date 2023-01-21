@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gestcontacts/static/css/main.57469cad.css",
+    "main.js": "/gestcontacts/static/js/main.5a5aae53.js",
+    "static/js/787.5caad66a.chunk.js": "/gestcontacts/static/js/787.5caad66a.chunk.js",
+    "index.html": "/gestcontacts/index.html",
+    "main.57469cad.css.map": "/gestcontacts/static/css/main.57469cad.css.map",
+    "main.5a5aae53.js.map": "/gestcontacts/static/js/main.5a5aae53.js.map",
+    "787.5caad66a.chunk.js.map": "/gestcontacts/static/js/787.5caad66a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57469cad.css",
+    "static/js/main.5a5aae53.js"
+  ]
+}
